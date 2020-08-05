@@ -1,7 +1,7 @@
 # notes-app
-Developed a simple application to store, remove, list all and specific notes in and from the data store, respectively. The application is built using Node.js only (including several NPM Packages , Node core modules as well as my own file).)
+Developed a simple application called "notes-app", which serves to store, remove, list all and specific notes in and from the data store, respectively. The application is built using Node.js only (including several NPM Packages , Node core modules as well as my own file).)
 
-Instructions on how to run it:
+Instructions on how to run the application:
 
 - Clone the repo to your local machine
 - Open the notes-app folder in any editor or IDE (I used Visual Studio Code for development purposes)
