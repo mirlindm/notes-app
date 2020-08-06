@@ -6,6 +6,8 @@ Instructions on how to run the application:
 - Clone the repo to your local machine
 - Open the notes-app folder in any editor or IDE (I used Visual Studio Code for development purposes)
 
+- run the command: npm init -y
+
 - run the following command: node app.js
 - In order to add a new note, run the command: node app.js add -title="Test Title" --body="Test Body"
 - In order to remove an existing note, run the command: node app.js remove --title="Test Title"
